@@ -1,0 +1,14 @@
+# Verification record — The Funniest Sick-Day Excuse
+- slug: u-zeroxfive-the-funniest-sick-day-excuse-37423a36
+- prize: $2 total (1st $1, 2nd $0.50, 3rd $0.50) — deadline: 2026-11-27T17:10:00Z (28 Nov 2026 00:10 WIB)
+- opensAt (API-verified 27 Nov 2026 11:40 WIB): 2026-11-24T17:12:13Z (in the past; this session started after it)
+- entryFeeUsd: null (FREE)
+- submissionCount at check: 3138 (blind rounds; top 500 dev-board entrants go to the final heat)
+- kit tarball sha256: 9a01e45ee16baeee4c1cfff865cd487ed065f656d08d7ba174d8fd531ae9aa43
+- kit bundle_sha256 (kit.json): e797f252c586b02d8cf0c6970d555b33e00a90a69f11ba05c385147eaef69586
+- account: @rapid-pika-70 ONLY; wallet 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr
+- entry line: "Sorry, I can't come in today — I woke up only able to turn my head left, so driving to work would be a series of very confident wrong turns." — 140 chars, 142 bytes (143 bytes with trailing newline), 1 line, inside the 1–200 gate
+- main.py written in 2+ messages (write + edit) per thinking_revised rule
+- fresh run (MAKEFUN_OUTPUT_DIR=/tmp/fresh-sick-day-out): exit 0, output byte-identical to entry.txt, gate 141 chars incl. newline, non-blank
+- read-only simulation (repo copy chmod a-w): exit 0, output byte-identical to entry.txt
+- honesty note: blind bounty, 3,138 entries, top 3 paid. Line is calibrated to the top-1 standard in the kit brief (half-believable stiff neck, fresh idea, twist on the last words, real-person text voice, no wasted words) — but no leaderboard is visible, so no rank can be claimed before the final heat.
